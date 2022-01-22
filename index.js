@@ -1,5 +1,6 @@
-import './ukol1.js';
+import './ukol3';
 
+/*
 //vytvoreni promenne
 let jmeno = 'Andrea';
 let věk = 31;
@@ -24,3 +25,4 @@ console.log(c % d);
 console.log(jmeno);
 console.log(věk);
 console.log(povolání);
+*/
